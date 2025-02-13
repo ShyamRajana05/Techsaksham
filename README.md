@@ -30,17 +30,17 @@ disease_prediction/
   ✔ Fast and accurate results
 
 🚀 How to Run
-1️⃣ Clone the repository:
-  git clone https://github.com/Akshitha-Mothkur/disease-prediction
-  cd disease-prediction
+👉Clone the repository:
+  git clone https://github.com/ShyamRajana05/Techsaksham.git
+  cd Techsaksham
 
-2️⃣ Install dependencies:
+ 👉Install dependencies:
   pip install -r requirements.txt
 
-3️⃣ Run the application:
+ 👉Run the application:
   streamlit run web.py
 
-4️⃣ Enter the required details and get predictions!
+ 👉 Enter the required details and get predictions!
 
 📊 How It Works
   User inputs health parameters
